@@ -1,4 +1,4 @@
-<a href="ayushanand18.github.io/cambridge-technica-2019/index.html"> Live Demo </a> 
+<a href="https://ayushanand18.github.io/cambridge-technica-2019/index.html"> Live Demo </a> 
 <h3>Cambridge Technica STEM Fest, 2019</h3>
 
 <p>This is the Official Entry for Cambridge School Indirapuram, Techinca 2019, STEM Fest by J.K.G. International School Students a. Ayush Anand and b. Manan Sabharwal. This is a demo website mimicking Reddit-like community - BluePad Inc. 
