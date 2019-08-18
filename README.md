@@ -1,0 +1,2 @@
+# cambridge-technica-2019
+This is the Official Entry for Cambridge School Indirapuram, Techinca 2019, STEM Fest by J.K.G. International School Students a. Ayush Anand and b. Manan Sabharwal. This is a demo website mimicking Reddit-like community - BluePad Inc. Note: If any copyright infringement occurs due to the name of the projects or the images included, we do not stake claim to their ownership. Images and Names included here are the properties of their respective owners.
